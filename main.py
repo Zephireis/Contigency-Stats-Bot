@@ -15,7 +15,7 @@ from discord.ext.commands import Bot
 
 
 
-TOKEN = ""
+TOKEN = "" #setup enviroment variables 
 BOT_PREFIX = "."
 
 
